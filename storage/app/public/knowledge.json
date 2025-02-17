@@ -1,0 +1,153 @@
+{
+    "sections": [
+      {
+        "title": "iStart Programs",
+        "questions": [
+          {
+            "question": "What is iStart Internship Program?",
+            "answer": "The Government provides internship opportunities to Startups registered under i-Start by collaborating with companies in various sectors. A stipend of up to INR 20,000 per Startup member (subject to INR 1 Lakh) is provided during the internship."
+          },
+          {
+            "question": "What is iStart Spotlight?",
+            "answer": "iStart Spotlight involves capacity-building activities across districts, offering training on operations, human resources, marketing, and promotion."
+          },
+          {
+            "question": "To whom additional booster is provided?",
+            "answer": "Additional boosters are given for employment generation, product-based startups, and startups founded by women, transgender, and SC-ST founders."
+          },
+          {
+            "question": "How much additional fund will be provided for Women Startup?",
+            "answer": "Startups with more than 50% equity held by women founders will receive an additional INR 60,000."
+          },
+          {
+            "question": "Is Scale up a Fund or Loan?",
+            "answer": "The Scale-up Fund provides financial support as debt convertible to a grant."
+          },
+          {
+            "question": "How much additional amount can be availed in Viability Grant?",
+            "answer": "Startups that upgrade their Q-Rate score within the defined period can receive additional grants."
+          },
+          {
+            "question": "Is the additional booster applicable for both fund types?",
+            "answer": "The booster applies to either the Viability Grant or the Scale-up Fund."
+          },
+          {
+            "question": "How much additional booster is available for Product-Based Startups?",
+            "answer": "Product-based startups can receive a 10% booster on Viability Grant and Scale-up Fund."
+          }
+        ]
+      },
+      {
+        "title": "iStart School Program",
+        "questions": [
+          {
+            "question": "Who is eligible for the program?",
+            "answer": "Students currently studying in classes 8th to 12th across registered schools in Rajasthan."
+          },
+          {
+            "question": "I don't have a startup yet. Should I still enroll?",
+            "answer": "Yes, there are two tracks: one for aspiring founders and one for active founders."
+          },
+          {
+            "question": "Who has access to the Learning Management System?",
+            "answer": "Students registered on the platform have access to content in both Hindi and English."
+          },
+          {
+            "question": "Is there a cost to the program?",
+            "answer": "The program is completely free and only requires internet access."
+          },
+          {
+            "question": "Is there a limit to the number of founders who can participate?",
+            "answer": "No, there is no limit on the number of participants."
+          },
+          {
+            "question": "How many hours should I expect to put into this?",
+            "answer": "The program is flexible, allowing students to spend as much time as they want."
+          },
+          {
+            "question": "If I’m already doing a startup, why should I bother with this?",
+            "answer": "The program offers insights on best practices and provides access to mentors and resources."
+          },
+          {
+            "question": "If I’m working with other people, who should participate?",
+            "answer": "Co-founders should participate, with one team leader representing the group."
+          }
+        ]
+      },
+      {
+        "title": "Mentor Teachers",
+        "questions": [
+          {
+            "question": "Is it mandatory for mentor teachers to undergo training?",
+            "answer": "Yes, mentor teachers must undergo entrepreneurship training."
+          },
+          {
+            "question": "What kind of training is provided to mentor teachers?",
+            "answer": "Rigorous training on entrepreneurship development is provided."
+          },
+          {
+            "question": "What is the role of a mentor teacher?",
+            "answer": "Mentor teachers act as an interface between the iStart team and schools, mentoring teachers and students on entrepreneurship development."
+          },
+          {
+            "question": "What are the day-to-day tasks assigned to mentor teachers?",
+            "answer": "They mentor teams on business ideas, address student doubts, and manage capacity-building programs."
+          },
+          {
+            "question": "Will mentor teachers be given certification for course training?",
+            "answer": "Yes, certificates are awarded after completing assignments and quizzes with a 60% pass rate."
+          },
+          {
+            "question": "How will mentor teachers be assessed?",
+            "answer": "Assessment is done through an assessment panel."
+          },
+          {
+            "question": "What is the team size to be handled by mentor teachers?",
+            "answer": "They are responsible for at least 30 student teams."
+          },
+          {
+            "question": "Would mentor teachers receive a stipend?",
+            "answer": "Yes, up to INR 10,000 per month based on KPIs."
+          }
+        ]
+      },
+      {
+        "title": "Funding & Incentives",
+        "questions": [
+          {
+            "question": "What is QRate?",
+            "answer": "QRate is an assessment program that evaluates a startup's strengths and investment-worthiness."
+          },
+          {
+            "question": "What does the QRate assessment include?",
+            "answer": "It includes a Startup Scorecard, skill-building programs, and Investor Connect."
+          },
+          {
+            "question": "How can I apply for QRate?",
+            "answer": "Register on the iStart portal and submit your business plan."
+          },
+          {
+            "question": "What parameters are used to assess startups in QRate?",
+            "answer": "Parameters include product, revenue streams, market potential, and customer management."
+          },
+          {
+            "question": "What is the QRate Scorecard?",
+            "answer": "A report assessing the startup’s strengths and weaknesses across business parameters."
+          },
+          {
+            "question": "How long does it take to receive QRate assessment results?",
+            "answer": "Results are provided within 15 working days of submission."
+          },
+          {
+            "question": "Can I reapply for QRate?",
+            "answer": "Yes, startups can apply for re-evaluation after the initial assessment."
+          },
+          {
+            "question": "What is Investor Connect?",
+            "answer": "It connects startups with venture capitalists and investors for funding opportunities."
+          }
+        ]
+      }
+    ]
+  }
+  

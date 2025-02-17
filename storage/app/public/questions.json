@@ -1,0 +1,682 @@
+{
+    "sections": [
+        {
+            "title": "Definitions and Key Terms",
+            "questions": [
+                {
+                    "question": "What is a Growth Stage Startup?",
+                    "answer": "A Growth Stage Startup is a business that has moved beyond the early stages and is scaling operations. The State Level Implementation Committee determines the classification."
+                },
+                {
+                    "question": "What is the Ideation Stage?",
+                    "answer": "The Ideation Stage refers to the pre-production\/pre-launch phase where a startup has conceptualized a new product or service."
+                },
+                {
+                    "question": "What is an Incubator?",
+                    "answer": "An incubator is a physical or virtual infrastructure that supports startups with mentoring, networking, training, and other business development resources. Eligible incubators must be registered with the nodal program."
+                },
+                {
+                    "question": "What is iStart Rajasthan?",
+                    "answer": "iStart Rajasthan is the nodal program and online platform for implementing the Rajasthan Startup Policy. All eligible startups, incubators, and policy beneficiaries must be registered with iStart."
+                },
+                {
+                    "question": "What is the iStart Portal?",
+                    "answer": "The iStart Portal is a single-window system for startups and MSMEs to manage their entrepreneurial journey in Rajasthan."
+                },
+                {
+                    "question": "What is Rajasthan Stack?",
+                    "answer": "Rajasthan Stack is a suite of technology offerings, including cloud services, payment platforms, email and SMS services, IVRS, and e-Sign APIs."
+                }
+            ]
+        },
+        {
+            "title": "iStart Programs",
+            "questions": [
+                {
+                    "question": "What is the iStart Internship Program?",
+                    "answer": "iStart offers internship opportunities for startups registered under the program, collaborating with companies across various sectors. Startup members can gain real-world experience, with a stipend of up to \u20b920,000 per member (capped at \u20b91 lakh per startup)."
+                },
+                {
+                    "question": "What is iStart Spotlight?",
+                    "answer": "iStart Spotlight conducts capacity-building activities across Rajasthan, providing training in operations, HR, marketing, and business promotion."
+                }
+            ]
+        },
+        {
+            "title": "Registration & Eligibility",
+            "questions": [
+                {
+                    "question": "Who is eligible to apply for iStart Rajasthan?",
+                    "answer": "Eligibility criteria for iStart Rajasthan include residents of Rajasthan, Udhyog industries or businesses operating in Rajasthan, state government servants of Rajasthan (SIPF users), and applicants with their entity registered or operational in Rajasthan."
+                },
+                {
+                    "question": "How can I register my startup with iStart Rajasthan?",
+                    "answer": "Visit the iStart Rajasthan website, click on \"Startups\" and select \"Entity Registration\", log in using your Single Sign-On (SSO) ID, complete the registration form, and submit it. Approval typically takes 5 to 7 working days."
+                },
+                {
+                    "question": "What documents are required for registration?",
+                    "answer": "The following documents are essential for registration: Bhamashah ID Card, Aadhaar Card, Google or Facebook login credentials, SIPF ID (for government employees), and Business Registration Number (BRN) for Udhyog."
+                }
+            ]
+        },
+        {
+            "title": "Funding & Incentives",
+            "questions": [
+                {
+                    "question": "What financial support is available for startups at the prototype stage?",
+                    "answer": "Startups at the prototype stage are eligible for a sustenance allowance of \u20b910,000 per month for one year. The project must be recommended by a Nodal Institution and approved by the State Level Implementation Committee."
+                },
+                {
+                    "question": "What assistance is provided for startups at the pilot stage?",
+                    "answer": "The policy offers marketing and commercialization assistance of up to \u20b910 lakh to help launch products or services. Eligibility requires securing a minimum of 25% funding from recognized angel investors, venture funds, or reputed incubators."
+                }
+            ]
+        },
+        {
+            "title": "Sector-Specific Incentives",
+            "questions": [
+                {
+                    "question": "What incentives are available for agriculture startups?",
+                    "answer": "Agriculture startups focusing on farmer engagement, irrigation, yield enhancements, farm-to-home solutions, and precision agriculture are eligible for incentives."
+                },
+                {
+                    "question": "What incentives are available for education startups?",
+                    "answer": "Education startups in digitally enabled learning, open education, test-prep support, and student-teacher-parent collaboration platforms can access government incentives."
+                }
+            ]
+        },
+        {
+            "title": "iStart School Startup Program",
+            "questions": [
+                {
+                    "question": "Who can participate in the iStart School Program?",
+                    "answer": "Students from classes 8 to 12 studying in registered schools across Rajasthan can participate."
+                },
+                {
+                    "question": "How can students register as innovators under iStart Rajasthan?",
+                    "answer": "Students can register by visiting the iStart Rajasthan website, selecting \"Rural Startup Registration\", and filling out the registration form."
+                },
+                {
+                    "question": "Is the iStart School Program free?",
+                    "answer": "Yes, the program is completely free."
+                }
+            ]
+        },
+        {
+            "title": "Illustrative Incentives for Startups",
+            "questions": [
+                {
+                    "question": "What incentives are provided for a women-led health-tech startup at the seed stage?",
+                    "answer": "A women-led health-tech startup with a Bronze QRate score (20) that wins three work orders worth INR 15 lakh each can receive viability grants up to INR 30 lakh, a 10% Thrust Booster of INR 3 lakh, a 10% Women-led Startup Booster of INR 3 lakh, and procurement benefits worth INR 45 lakh, totaling INR 81 lakh in support."
+                },
+                {
+                    "question": "How does the policy support angel funds operating in Rajasthan?",
+                    "answer": "Angel funds establishing operations in Rajasthan can receive capital contributions from the Rajasthan Startup Fund, and acceleration program support of INR 35 lakh per year for three years, totaling INR 21.05 crore in benefits."
+                }
+            ]
+        },
+        {
+            "title": "Introduction",
+            "questions": [
+                {
+                    "question": "How has the digital era impacted entrepreneurship?",
+                    "answer": "The digital era has democratized entrepreneurship by making it easier to launch startups and fostering a thriving digital ecosystem, leading to the growth of successful startups across the country."
+                },
+                {
+                    "question": "Why is Rajasthan focusing on startups?",
+                    "answer": "Rajasthan sees startups as a means to empower youth, foster innovation, generate employment, and strengthen both the regional and national economy."
+                },
+                {
+                    "question": "What is iStart?",
+                    "answer": "iStart is Rajasthan's flagship startup program that has supported over 2000 startups, making it one of the most recognized state-run startup ecosystems in India."
+                },
+                {
+                    "question": "What is the objective of the Rajasthan Startup Policy 2022?",
+                    "answer": "The policy aims to nurture and grow startups across the state, providing a conducive environment for innovation and entrepreneurship."
+                }
+            ]
+        },
+        {
+            "title": "Vision",
+            "questions": [
+                {
+                    "question": "What is the vision of Rajasthan\u2019s Startup Policy?",
+                    "answer": "The vision is to establish Rajasthan as India\u2019s leading center for entrepreneurship and innovation by fostering a thriving and diverse startup ecosystem with sustainable economic and societal benefits."
+                }
+            ]
+        },
+        {
+            "title": "Objectives",
+            "questions": [
+                {
+                    "question": "What are the key objectives of the policy?",
+                    "answer": "Make Rajasthan the most vibrant startup ecosystem in India. Foster job creation and skill enhancement. Position Rajasthan as the #1 state in innovation in key sectors like agriculture, education, healthcare, and fintech. Encourage inclusive entrepreneurship among women, transgenders, specially-abled, SC\/ST communities, and rural areas. Involve startups in governance and government reforms. Support product-based startups and social impact innovations."
+                }
+            ]
+        },
+        {
+            "title": "Design Principles",
+            "questions": [
+                {
+                    "question": "What are the key design principles of the policy?",
+                    "answer": "Ease of Navigation: Well-defined policy structure linking incentives to startup life cycle stages. Incentive Simplification: Clear understanding of policy benefits. Efficient Disbursals: One-stop-shop mechanism with auto-disbursals. Seamless Transition: Clear processes for changes in incentives."
+                }
+            ]
+        },
+        {
+            "title": "Scope of the Policy",
+            "questions": [
+                {
+                    "question": "What is the operative period of the policy?",
+                    "answer": "The policy is in effect for five years from its issuance and will be extended until the next policy is notified."
+                },
+                {
+                    "question": "Who is eligible for the policy?",
+                    "answer": "Startups registered under the iStart program. Startup investment funds. Incubators, academic institutions, and other defined ecosystem participants."
+                }
+            ]
+        },
+        {
+            "title": "Use of Rajasthan Startup Fund",
+            "questions": [
+                {
+                    "question": "What is the purpose of the Rajasthan Startup Fund?",
+                    "answer": "The fund is used to expand and promote the startup ecosystem through funding, infrastructure, events, training, mentorship, and incubation support."
+                },
+                {
+                    "question": "What are the key areas where the Rajasthan Startup Fund will be used?",
+                    "answer": "Funding support through grants, loans, and equity. Operating and maintaining digital and physical infrastructure. Organizing networking events and workshops. Running training and up-skilling centers. Providing mentorship and counseling programs. Supporting incubation centers and academic institutes."
+                },
+                {
+                    "question": "How will funding support be provided to startups?",
+                    "answer": "The government will provide grants, loans, and equity-based funding based on the startup's lifecycle stage."
+                },
+                {
+                    "question": "What digital and physical infrastructure support is available for startups?",
+                    "answer": "Free\/subsidized access to Rajasthan Stack (cloud, APIs, payment platforms, SMS, email). Space in government incubation centers. Co-working spaces, laboratories, and testing labs."
+                },
+                {
+                    "question": "How will networking opportunities be provided?",
+                    "answer": "The government will organize: Exposure visits. University and industry events. Startup meets, sector-specific events, workshops, and job fairs."
+                },
+                {
+                    "question": "What training and up-skilling centers are involved in the startup ecosystem?",
+                    "answer": "Rajiv Gandhi Centre of Advanced Technology (R-CAT). Rajasthan Institute of Advanced Learning (RIAL). Rajiv Gandhi Fintech Digital Institute."
+                },
+                {
+                    "question": "How will mentorship programs be conducted?",
+                    "answer": "The government will invite senior mentors and counselors. Incubation centers will have dedicated mentors for daily guidance."
+                },
+                {
+                    "question": "How will incubation centers and academic institutes be supported?",
+                    "answer": "The government will partner with top Indian and global institutes to develop incubation and facilitation centers."
+                }
+            ]
+        },
+        {
+            "title": "Incentives for Startups",
+            "questions": [
+                {
+                    "question": "What types of incentives will be provided to startups?",
+                    "answer": "Funding Incentives. Additional Financial Incentives. Enabling Support."
+                },
+                {
+                    "question": "How will additional boosters be provided?",
+                    "answer": "Additional incentives will be given for employment generation, performance enhancement, product-based startups, and startups founded by women, transgenders, specially-abled, SC\/STs, and rural entrepreneurs."
+                }
+            ]
+        },
+        {
+            "title": "Funding Incentives",
+            "questions": [
+                {
+                    "question": "How are funding incentives categorized?",
+                    "answer": "Pre-Seed & Seed Stage Growth Stage"
+                },
+                {
+                    "question": "What is QRate Startup Rating?",
+                    "answer": "It is an assessment program that evaluates startups' investment potential and assigns ratings (Bronze, Silver, Gold, Platinum, Signature)."
+                }
+            ]
+        },
+        {
+            "title": "Pre-Seed & Seed Stage",
+            "questions": [
+                {
+                    "question": "What financial support is available for Pre-Seed stage startups?",
+                    "answer": "Ideation Grant: INR 2,40,000 for eligible startups under iStart, based on criteria set by the Evaluation Committee."
+                },
+                {
+                    "question": "What is the Viability Grant?",
+                    "answer": "Startups improving their QRate score within a defined period are eligible for an additional grant based on new slab levels."
+                },
+                {
+                    "question": "Can startups receive multiple Viability Grants?",
+                    "answer": "Yes, startups upgrading their QRate score within the specified period can receive additional funding per slab."
+                }
+            ]
+        },
+        {
+            "title": "Growth Stage",
+            "questions": [
+                {
+                    "question": "What financial support does the state provide to growth-stage startups?",
+                    "answer": "The state provides a Scale-up Fund as convertible debt\/equity and a Startup Equity Fund through an Alternative Investment Fund (AIF)."
+                },
+                {
+                    "question": "What is the maximum Scale-up Fund a startup can receive?",
+                    "answer": "The Scale-up Fund provides up to 50% of the total amount raised, with limits based on QRate category: Bronze: Up to INR 1 crore Silver: Up to INR 1.5 crore (18 months) Gold & Above: Up to INR 2 crore (30 months)."
+                },
+                {
+                    "question": "How does the Startup Equity Fund work?",
+                    "answer": "The government will match the amount of funds raised by an eligible startup up to INR 5 crore."
+                }
+            ]
+        },
+        {
+            "title": "Seed Stage",
+            "questions": [
+                {
+                    "question": "What is the Viability Grant for Seed Stage startups?",
+                    "answer": "Startups registered under iStart are eligible for financial grants depending on their QRate category, ranging from INR 10 lakh to INR 60 lakh."
+                },
+                {
+                    "question": "Are there any additional grants for women founders?",
+                    "answer": "Yes, startups with women founders receive an additional INR 60,000."
+                }
+            ]
+        },
+        {
+            "title": "Additional Boosters",
+            "questions": [
+                {
+                    "question": "What are the additional boosters provided to startups?",
+                    "answer": "There are four types of boosters: Performance Booster, Employment Booster, Product-Based Startup Booster, Thrust Sector Booster."
+                },
+                {
+                    "question": "What is the Performance Booster?",
+                    "answer": "Startups upgrading their QRate score within a specific timeframe receive a 10%-20% increase in Viability Grant or Scale-up Fund."
+                },
+                {
+                    "question": "How does the Employment Booster work?",
+                    "answer": "Startups creating additional jobs above the minimum threshold receive: 10% for 1.5x to 2x employment, 15% for 2x to 2.5x employment, 20% for 2.5x or more employment."
+                },
+                {
+                    "question": "What incentives exist for Product-Based Startups?",
+                    "answer": "They receive a 10% top-up on Viability Grants and Scale-up Funds."
+                },
+                {
+                    "question": "What is the Thrust Sector Booster?",
+                    "answer": "Startups in Thrust Sectors get an extra 10% on Viability Grant and Scale-up Fund."
+                },
+                {
+                    "question": "What benefits do Women, Transgenders, Specially-Abled, SC\/ST, and Rural Founders receive?",
+                    "answer": "They receive a 10% booster on grants and funds, an additional INR 60,000 Ideation Grant, and 10% reserved seats in iStart Nest incubators."
+                }
+            ]
+        },
+        {
+            "title": "Additional Financial Incentives",
+            "questions": [
+                {
+                    "question": "What tax benefits are provided to startups?",
+                    "answer": "75% investment subsidy on state taxes for 7 years under RIPS 2022."
+                },
+                {
+                    "question": "How much reimbursement is available for Intellectual Property (IP) expenses?",
+                    "answer": "Up to 75% reimbursement for patent acquisition costs, capped at INR 5 lakh per startup."
+                },
+                {
+                    "question": "Are there incentives for quality certifications?",
+                    "answer": "Yes, a one-time reimbursement of 50% of certification costs up to INR 25 lakh per startup."
+                },
+                {
+                    "question": "How does the Hosting Infrastructure benefit work?",
+                    "answer": "Pre-Seed & Seed stage startups: Free access to Rajasthan Stack. Growth stage startups: 50% subsidy on access cost for 3 years."
+                },
+                {
+                    "question": "What is the Networking Support incentive?",
+                    "answer": "Reimbursement of conference participation: National conferences: INR 50,000 per startup member (up to INR 5 lakh per startup). International conferences: Up to INR 5 lakh per startup."
+                },
+                {
+                    "question": "What exemptions do startups receive?",
+                    "answer": "100% exemption on electricity duty, mandi fee & land taxes for 7 years. 100% stamp duty benefit as per RIPS 2022."
+                }
+            ]
+        },
+        {
+            "title": "Enabling Support",
+            "questions": [
+                {
+                    "question": "How does the Government support startup outreach?",
+                    "answer": "Through exposure visits, networking events, corporate partnerships, and sector-specific events."
+                },
+                {
+                    "question": "What skill development programs are available?",
+                    "answer": "Programs through R-CAT, Fintech Digital Institute, and Rajasthan Institute of Advanced Learning."
+                },
+                {
+                    "question": "What is the iStart Internship Program?",
+                    "answer": "Internships for startup members with a stipend up to INR 20,000 per member (max INR 1 lakh per startup)."
+                },
+                {
+                    "question": "What is the Ambassador Program?",
+                    "answer": "Up to INR 10 lakh per district per year for agencies\/startups supporting local startup ecosystems."
+                },
+                {
+                    "question": "What mentoring support is available?",
+                    "answer": "Day-to-day mentoring in state incubators, Training for faculty at academic institutes, Industry experts and founders guiding startups."
+                }
+            ]
+        },
+        {
+            "title": "Ease of Doing Business",
+            "questions": [
+                {
+                    "question": "What Ease of Doing Business measures are available?",
+                    "answer": "Self-certification under Raj Udyog Mitra, Expedited registration process, Relaxed procurement norms under RTPP."
+                }
+            ]
+        },
+        {
+            "title": "Incubation Facilities",
+            "questions": [
+                {
+                    "question": "What incubation facilities are available?",
+                    "answer": "Plug and Play incubation via: State-run incubators, Private partnerships, Utilization of state institutes as incubation spaces."
+                }
+            ]
+        },
+        {
+            "title": "Public Procurement",
+            "questions": [
+                {
+                    "question": "How does the government support startup procurement?",
+                    "answer": "Startups can get up to 6 government work orders per year based on QRate category."
+                },
+                {
+                    "question": "What is the maximum procurement order startups can receive?",
+                    "answer": "Bronze: Up to 3 work orders, Silver: Up to 4 work orders, Gold: Up to 5 work orders, Platinum\/Signature: Up to 6 work orders."
+                },
+                {
+                    "question": "What procurement relaxations exist for startups?",
+                    "answer": "Exemptions from prior turnover, prior experience, and earnest money deposit for orders up to INR 1 crore."
+                }
+            ]
+        },
+        {
+            "title": "Exit Stage",
+            "questions": [
+                {
+                    "question": "How does the government support startups at the Exit Stage?",
+                    "answer": "Graduation work orders for iStart startups, Access to Innovation and Incubation Centers, Future employment facilitation through job fairs and talent marketplaces, Simplified exit process."
+                }
+            ]
+        },
+        {
+            "title": "General Questions",
+            "questions": [
+                {
+                    "question": "What is the maximum grant provided to incubators and angel investors to run accelerator programs in Rajasthan?",
+                    "answer": "A grant of up to INR 35 lakh will be provided, provided at least 30% of the participants are Startups founded in Rajasthan."
+                },
+                {
+                    "question": "What is the maximum grant available for creating Entrepreneurship Cells at government schools and colleges?",
+                    "answer": "A grant of up to INR 15 lakh."
+                },
+                {
+                    "question": "How much budget has the Government allocated annually for global partnerships with premier institutes?",
+                    "answer": "The Government has allocated up to INR 5 crore per year."
+                },
+                {
+                    "question": "What kind of support is available for funding institutions like angel investors and venture capital funds?",
+                    "answer": "Free office space and grants of up to INR 35 lakh for acceleration programs and workshops, provided at least 30% of participants are Startups founded in Rajasthan."
+                },
+                {
+                    "question": "What is the Rajasthan Startup Policy 2022?",
+                    "answer": "It is a policy initiative by the Government of Rajasthan aimed at promoting and supporting startups in the state through funding, mentorship, incubation, and various incentives."
+                },
+                {
+                    "question": "What is iStart Rajasthan?",
+                    "answer": "iStart Rajasthan is the nodal program and online platform for implementing the Rajasthan Startup Policy 2022. It acts as a single-window system for startups and MSMEs."
+                },
+                {
+                    "question": "Who is eligible to avail benefits under this policy?",
+                    "answer": "Startups that are registered under the iStart program and meet the criteria defined by DPIIT (Department for Promotion of Industry and Internal Trade, Govt. of India)."
+                },
+                {
+                    "question": "What are the eligibility criteria for a startup under this policy?",
+                    "answer": "Should be registered in Rajasthan or have a branch\/sales office in Rajasthan. Should not be more than 10 years old. Should have an annual turnover of less than INR 100 crore. Should be working on innovation, improvement, or scalability of products\/services."
+                }
+            ]
+        },
+        {
+            "title": "Support for Students and Rural Entrepreneurs",
+            "questions": [
+                {
+                    "question": "What is the \u201cRural Startup of the Year\u201d competition?",
+                    "answer": "A yearly district-level competition exclusively for rural entrepreneurs. Winners receive a cash reward, free access to training centers, and funding for up to 5 employees in the ideation stage."
+                },
+                {
+                    "question": "What is the School Startup Program?",
+                    "answer": "A student entrepreneurship promotion program in public schools where promising business ideas can be incubated under iStart nests with mentorship and resources."
+                },
+                {
+                    "question": "Can students use their Startup project as their final-year project?",
+                    "answer": "Yes, student entrepreneurs can convert their Startup project into their final-year project with University approval."
+                },
+                {
+                    "question": "Can students take a gap year for entrepreneurship?",
+                    "answer": "Yes, students can take a one-year gap after the first year of their graduation\/post-graduation course without affecting the maximum duration required to complete the course."
+                }
+            ]
+        },
+        {
+            "title": "Startup Investment Fund Incentives",
+            "questions": [
+                {
+                    "question": "What incentives are available for Startup investment funds setting up in Rajasthan?",
+                    "answer": "Free office space at state-of-the-art locations."
+                },
+                {
+                    "question": "What is the condition for Startup investment funds to receive grants for acceleration programs?",
+                    "answer": "At least 30% of the participants must be Startups founded in Rajasthan."
+                }
+            ]
+        },
+        {
+            "title": "Policy Administration",
+            "questions": [
+                {
+                    "question": "What is the role of the Nodal Department Level Committee?",
+                    "answer": "It evaluates and approves proposals at the departmental level."
+                },
+                {
+                    "question": "Who chairs the Nodal Department Level Committee?",
+                    "answer": "The Commissioner, IT&C\/Managing Director, RISL."
+                },
+                {
+                    "question": "What is the role of the Evaluation Committee?",
+                    "answer": "It evaluates proposals received under the Policy."
+                },
+                {
+                    "question": "Who is the chairperson of the Evaluation Committee?",
+                    "answer": "A nominee from the Nodal Government Department."
+                },
+                {
+                    "question": "What is the function of the State Level Implementation Committee (SLIC)?",
+                    "answer": "It recommends budgetary and financial assistance for the program."
+                }
+            ]
+        },
+        {
+            "title": "Transition and Benefits Clause",
+            "questions": [
+                {
+                    "question": "Can Startups registered under iStart avail benefits under both Rajasthan Startup Policy 2022 and Rajasthan Investment Promotion Scheme (RIPS) 2022?",
+                    "answer": "No, Startups can avail benefits under either Rajasthan Startup Policy 2022 or RIPS 2022."
+                },
+                {
+                    "question": "Can Startups registered under Startup Policy 2015 continue to avail benefits?",
+                    "answer": "Yes, eligible Startups can either continue under Startup Policy 2015 or migrate to Startup Policy 2022 based on their life cycle stage."
+                },
+                {
+                    "question": "Can Startups that applied but did not avail benefits under Startup Policy 2015 or RIPS 2019 transition to the new policy?",
+                    "answer": "Yes, they can migrate to either Startup Policy 2022 or RIPS 2022."
+                }
+            ]
+        },
+        {
+            "title": "Definitions and Eligibility Criteria",
+            "questions": [
+                {
+                    "question": "What is an Accelerator Program?",
+                    "answer": "A fixed-tenure program that supports early-stage and growth-driven Startups with mentoring, financing, and education."
+                },
+                {
+                    "question": "What is an Incubator?",
+                    "answer": "A physical or virtual infrastructure that provides business support, mentoring, networking opportunities, and other facilities to Startups."
+                },
+                {
+                    "question": "What is eBazaar?",
+                    "answer": "A marketplace facilitating online procurement of goods and services from Startups by government departments."
+                },
+                {
+                    "question": "What is an eligible Startup under the Rajasthan Startup Policy 2022?",
+                    "answer": "A Startup that: Has been in existence for less than 10 years. Has an annual turnover of less than INR 100 crore. Is an original entity (not formed by restructuring an existing business). Is working on innovation, scalability, and high employment potential. Is registered in Rajasthan or has a branch\/sales office in the state."
+                },
+                {
+                    "question": "What is considered a Growth Stage Startup?",
+                    "answer": "A Startup with a refined Minimum Viable Product (MVP), pilot testing completed, and is ready to scale operations."
+                },
+                {
+                    "question": "What is Ideation in the context of Startups?",
+                    "answer": "A pre-launch stage where a Startup has conceptualized a new product or service."
+                },
+                {
+                    "question": "What percentage of a company\u2019s workforce can be contract labor under this policy?",
+                    "answer": "The percentage of contract labor should not exceed 40% of the total labor force."
+                },
+                {
+                    "question": "How are financial support amounts calculated?",
+                    "answer": "All financial support includes applicable taxes unless stated otherwise."
+                }
+            ]
+        },
+        {
+            "title": "Funding & Grants",
+            "questions": [
+                {
+                    "question": "What financial support is provided under the Rajasthan Startup Policy 2022?",
+                    "answer": "Grant up to INR 35 lakh for incubators, angel investors, and others running accelerator programs. Grant up to INR 15 lakh for setting up Entrepreneurship Cells in government schools\/colleges. INR 5 crore per year allocated for partnerships with premier global institutes. Viability grants, procurement benefits, and other incentives based on startup category."
+                },
+                {
+                    "question": "What is the Rajiv Gandhi Innovation Challenge?",
+                    "answer": "A competition held twice a year to encourage innovation in Rajasthan. The winners get grants as follows: 1st place: Up to INR 2 crore, 2nd place: Up to INR 1 crore, 3rd place (3 winners): Up to INR 50 lakh each."
+                }
+            ]
+        },
+        {
+            "title": "Support for Incubators & Investors",
+            "questions": [
+                {
+                    "question": "What support is provided to incubators?",
+                    "answer": "Funding up to INR 35 lakh for running accelerator programs. Financial assistance for setting up Entrepreneurship Cells in government schools and colleges. Government partnerships with premier institutes to develop incubators."
+                },
+                {
+                    "question": "What incentives are provided for startup investment funds?",
+                    "answer": "Free office space at state-of-the-art locations. Grant up to INR 35 lakh for acceleration programs and workshops (if 30% participants are Rajasthan-based startups)."
+                }
+            ]
+        },
+        {
+            "title": "Support for Students & Rural Entrepreneurs",
+            "questions": [
+                {
+                    "question": "What is the Rural Startup of the Year Competition?",
+                    "answer": "A district-level competition for rural entrepreneurs, with the winners receiving cash rewards to develop their idea into a business, free access to training centers, and funding for hiring up to 5 employees in the ideation stage."
+                },
+                {
+                    "question": "What is the School Startup Program?",
+                    "answer": "A program to promote entrepreneurship among students, allowing selected student-led ideas to join iStart Nests for mentorship and resources."
+                },
+                {
+                    "question": "Can students use their startup projects as final-year projects?",
+                    "answer": "Yes, universities may allow students to convert their startup projects into final-year academic projects."
+                },
+                {
+                    "question": "What is the Gap Year provision?",
+                    "answer": "Students pursuing entrepreneurship can take a one-year break (Gap Year) without it being counted in the maximum duration of their degree."
+                }
+            ]
+        },
+        {
+            "title": "Incentives & Policy Administration",
+            "questions": [
+                {
+                    "question": "What are the incentives for startups in Rajasthan?",
+                    "answer": "Some major incentives include viability grants for women-led and SC\/ST startups, procurement benefits for government tenders, and thrust boosters for startups in key sectors like health-tech, ed-tech, and agriculture."
+                },
+                {
+                    "question": "What is the role of the Nodal Department Level Committee?",
+                    "answer": "It evaluates and approves proposals received under this policy."
+                },
+                {
+                    "question": "What is the role of the Evaluation Committee?",
+                    "answer": "It assesses policy proposals and includes representatives from government departments, Rajasthan Knowledge Corporation Limited, academia, and venture funds\/angel investors."
+                },
+                {
+                    "question": "What is the State Level Implementation Committee (SLIC)?",
+                    "answer": "It recommends budgetary allocations and financial assistance under the policy."
+                }
+            ]
+        },
+        {
+            "title": "Definitions & Terms",
+            "questions": [
+                {
+                    "question": "What is an Accelerator Program?",
+                    "answer": "A fixed-tenure program that provides mentoring, financing, and education to early-stage startups."
+                },
+                {
+                    "question": "What is the iStart Portal?",
+                    "answer": "A one-stop online system for startups and MSMEs to conduct their business in Rajasthan."
+                },
+                {
+                    "question": "What is Rajasthan Stack?",
+                    "answer": "A suite of technology services including payment platforms, cloud computing, SMS services, and APIs for startups."
+                },
+                {
+                    "question": "What is a Pre-Seed Stage Startup?",
+                    "answer": "A startup that is still in the idea generation, refinement, and validation phase."
+                },
+                {
+                    "question": "What is a Seed Stage Startup?",
+                    "answer": "A startup with a Minimum Viable Product (MVP) or prototype ready for market testing."
+                }
+            ]
+        },
+        {
+            "title": "General Questions Based on Illustrations",
+            "questions": [
+                {
+                    "question": "What is QRate in the Rajasthan Startup Policy?",
+                    "answer": "QRate is a startup assessment and rating system under iStart Rajasthan that evaluates startups based on their scalability, innovation, and market potential."
+                },
+                {
+                    "question": "What are the different categories of QRate scores?",
+                    "answer": "Bronze (Initial Stage), Silver (Validated Business Model), Gold (High Growth Potential), Platinum (Market Leader Potential)."
+                }
+            ]
+        },
+        {
+            "title": "Thrust Sectors & Future Initiatives",
+            "questions": [
+                {
+                    "question": "What are the priority sectors for Rajasthan\u2019s startup ecosystem?",
+                    "answer": "Agriculture (precision farming, water conservation), Ed-Tech (digital learning platforms), Fin-Tech (financial inclusion in rural areas), Healthcare (rural medical services, mental wellness), Deep Tech (AI, Blockchain, AR\/VR, IoT), Green Energy (renewable energy, green hydrogen, battery tech)."
+                }
+            ]
+        }
+    ]
+}
